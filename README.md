@@ -1,5 +1,5 @@
 
-# Frame Shift: Dynamic Image Gallery Application
+# [Module 20] Frame Shift: Dynamic Image Gallery Application
 
 ## Overview
 
